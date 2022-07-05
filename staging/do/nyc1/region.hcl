@@ -1,0 +1,4 @@
+
+inputs = {
+  region = "NYC1"
+}
